@@ -125,3 +125,4 @@ const generateScript = (newsData) => {
   return script;
 };
 
+
